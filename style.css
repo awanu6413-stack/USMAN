@@ -20,7 +20,9 @@ border: 3px solid black !important;
     font-weight: 500;
 }
 
-
+.f{
+    font-size: xx-large !important;
+}
 
  .apply-btn {
       background: linear-gradient(90deg, #4b3df5, #8f4bff);
@@ -33,4 +35,3 @@ border: 3px solid black !important;
       border-radius: 10px;
       color: #4b3df5 !important;
     }
-
